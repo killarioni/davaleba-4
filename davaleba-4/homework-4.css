@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+}
+
+.h{
+    width: 254px;
+    height: 64px;
+    margin-top: 26px;
+    margin-left: 80px;
+    font-size: 64px;
+}
+
+.menu{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+span{
+    margin:  55px;
+}
+
+.text{
+    color: lightgray;
+}   
+
+.row1{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.row2{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+.card{
+    width: 366px;
+    height: 420px;
+    background-color: #FAF4EF;
+    border-bottom-left-radius: 50px; 
+    padding-top: 30px;
+}
+
+
+
+.img1{
+    margin-top: 25px;
+    margin-left: 67px;
+}
+
+.title{
+    width: 100%;
+    height: 100px;
+    margin-left: 46px;
+    
+}
+
+.p{
+    color: #737373;
+    font-size: 24px;    
+}
+
+.h1{
+    color: #4B4B4B;
+    font-size: 36px;
+}
+
+.distance{
+    margin: 66px;
+}
+
+.img2{
+    margin-top: 25px;
+    margin-left: 33px;
+}
+
+.img3{
+    margin-top: 25px;
+    margin-left: 33px
+}
+
+.img4{
+    margin-left: 20px;
+}
+
+.img5{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.img6{
+    margin-top: 40px;
+    margin-left: 25px;
+}
